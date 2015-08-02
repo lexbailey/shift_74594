@@ -1,0 +1,6 @@
+shift_74594	KEYWORD1
+init	KEYWORD2
+clear	KEYWORD2
+latch	KEYWORD2
+setByte	KEYWORD2
+setByteReverse	KEYWORD2
